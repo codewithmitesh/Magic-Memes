@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magic Memes</string>
+    <string name="created_by_mitesh">Created by Mitesh</string>
+    <string name="meme_magic">Meme Magic</string>
+    <string name="share_memes">Share Memes</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="share">Share</string>
+</resources>
